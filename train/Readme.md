@@ -1,1 +1,1 @@
-[MLo7](https://colab.research.google.com/github/MLo7Ghinsan/DiffSinger_colab_notebook_MLo7/blob/main/DiffSinger_colab_notebook.ipynb#scrollTo=21ILzW4OEnh4)님의 훈련 노트북에서 맨 마지막 셀만 수정되어 있는 훈련용 노트북을 배포하고 있어요.
+[MLo7](https://colab.research.google.com/github/MLo7Ghinsan/DiffSinger_colab_notebook_MLo7/blob/main/DiffSinger_colab_notebook.ipynb#scrollTo=21ILzW4OEnh4)님의 훈련 노트북에서 **맨 마지막 셀**만 수정되어 있는 훈련용 노트북을 배포하고 있어요.
