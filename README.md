@@ -1,10 +1,12 @@
 # ex3-ko-diffsinger-support
-Repository that supports Korean Diffsinger development
+Repository that supports Korean Diffsinger development. <br>
 한국어 Diffsinger 제작을 지원하는 레포지토리에요.
 
 ## 🔖1. Phonemes | 음소표 
 https://github.com/EX3exp/ex3-ko-diffsinger-support/blob/main/dict/Readme.md
-## 🔖2. How to Label | 라벨링 방법
+## 🔖2. Sample Model | 모델 샘플
+[LUNAR](https://ex3exp.github.io/VB-dister/pages/lunar-kor-diff.html)
+## 🔖3. How to Label | 라벨링 방법
 ### 📕2-1. 예사소리, ㅅ (g, d, b, s, j... + s, ss...) - consonants which are not fortis & not aspirate
 - start: 자음의 시작 (start of consonant)
 - end: 자음의 끝 (end of consonant)
@@ -22,10 +24,12 @@ https://github.com/EX3exp/ex3-ko-diffsinger-support/blob/main/dict/Readme.md
 - end: 모음의 끝(end of vowel)
 ![image](https://github.com/EX3exp/ex3-ko-diffsinger-support/assets/100339835/ae5854af-4729-449b-81d4-fe794f966235)
 ### 📕2-5. 반모음 (w, y...)- semivowels
-- 스펙트럼을 보며 라벨링합시다. (please see Spectrum)
+- 스펙트럼을 보며 라벨링해 주세요. (please see Spectrum)
 - start: 전체 반모음 스펙트럼의 3분의 1 지점 (1/3 of semivowel's spectrum)
 - end: 전체 반모음 스펙트럼의 3분의 2 지점 (2/3 of semivowel's spectrum)
 
 ![image](https://github.com/EX3exp/ex3-ko-diffsinger-support/assets/100339835/6ea60343-23a1-420d-bbc7-9fb2352e07ce)
 ![image](https://github.com/EX3exp/ex3-ko-diffsinger-support/assets/100339835/62d7a192-5126-4c1b-b1bb-9bc24787a09f)
 
+## 💚Reference
+[kaniblu/unicode.py](https://github.com/kaniblu/hangul-utils/blob/master/hangul_utils/unicode.py)
